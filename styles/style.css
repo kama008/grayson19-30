@@ -20,6 +20,10 @@ ul {
 }
 
 
+body{
+    background: rgb;
+}
+
 ::-webkit-scrollbar {
     width: 20px;
 }
@@ -70,6 +74,8 @@ ul {
     top: 0;
     background: #FFF;
     width: 100%;
+    background: fff;
+  
 }
 
 
